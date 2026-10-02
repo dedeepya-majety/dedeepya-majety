@@ -5,10 +5,10 @@
 ### Azure Data Engineer | Databricks Platform Engineer | PySpark & Cloud Lakehouse Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dedeepya--majety-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://dedeepya-majety-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/majetydedeepya-data-engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dedeepya-majety/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majetydedeepya0@gmail.com)
-[![Databricks Certified](https://img.shields.io/badge/Databricks-Certified_Data_Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://linkedin.com/in/majetydedeepya-data-engineer)
-[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Power_BI_Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://linkedin.com/in/majetydedeepya-data-engineer)
+[![Databricks Certified](https://img.shields.io/badge/Databricks-Certified_Data_Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.linkedin.com/in/dedeepya-majety/)
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Power_BI_Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/dedeepya-majety/)
 
 <br/>
 
@@ -95,6 +95,6 @@ flowchart LR
 ### 📬 Connect With Me
 
 - 🌐 **Portfolio:** [dedeepya-majety-portfolio.vercel.app](https://dedeepya-majety-portfolio.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/majetydedeepya-data-engineer](https://linkedin.com/in/majetydedeepya-data-engineer)
+- 💼 **LinkedIn:** [linkedin.com/in/dedeepya-majety](https://www.linkedin.com/in/dedeepya-majety/)
 - 📧 **Email:** [majetydedeepya0@gmail.com](mailto:majetydedeepya0@gmail.com)
 - 📍 **Location:** Chennai, Tamil Nadu, India (Open to Hybrid / Remote / Relocation)
