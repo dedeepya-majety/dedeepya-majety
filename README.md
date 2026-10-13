@@ -9,12 +9,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majetydedeepya0@gmail.com)
 [![Databricks Certified](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/0b153543-bf9a-4130-8d80-0daaffc5a4ea)
 [![Power BI Certified](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/DedeepyaMajetyCognizant-8171/5F29A7B356D3AFFB?sharingId=86DC478C83106E9D)
-[![Power Platform Certified](https://img.shields.io/badge/Microsoft-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/DedeepyaMajetyCognizant-8171/13F378F1FC820DF?sharingId=86DC478C83106E9D)
+[![Application Packets](https://img.shields.io/badge/Application_Packets-azure--data--engineer-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dedeepya-majety/azure-data-engineer-applications)
 
 <br/>
 
-> **Azure Data Engineer** with **3+ years of experience** at Cognizant building enterprise cloud ETL/ELT pipelines using **Azure Databricks**, **Delta Lake**, **PySpark**, **Azure Data Factory (ADF)**, and **Apache Airflow**.  
-> 🟢 **Serving Notice Period** · **Available for Immediate / 30-Day Joining** · **Target Locations: Chennai & Hyderabad, India**
+> **Azure Data Engineer** with **3.9 years of experience** at Cognizant building enterprise cloud ETL/ELT pipelines using **Azure Databricks**, **Delta Lake**, **PySpark**, **Azure Data Factory (ADF)**, and **Apache Airflow**.  
+> 🟢 **Serving Notice Period** · **Available for Immediate / 30-Day Joining** · **Target Locations: Chennai, Hyderabad, Bangalore, India**  
+> 📦 **Target Company Deliverables:** [dedeepya-majety/azure-data-engineer-applications](https://github.com/dedeepya-majety/azure-data-engineer-applications) (EY GDS, Accenture, PwC, BMS, Zoetis, Pitch Decks & Lakehouse Guide)
 
 </div>
 
